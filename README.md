@@ -4,7 +4,7 @@
 This repository contains numerical methods analysis and implementations using Python. The project explores various mathematical functions and optimization techniques using `spotPython`. It includes contour plots, variable importance analysis, and function evaluations.
 
 ## 📂 Project Structure
-- `src/` - Contains the main optimization script.
+- `src/` - Contains the main script.
 - `notebook_result/` - Jupyter Notebook in pdf for visualization.
 
 
@@ -26,3 +26,4 @@ To run this project, install the required dependencies:
 
 ```sh
 pip install -r requirements.txt
+```
